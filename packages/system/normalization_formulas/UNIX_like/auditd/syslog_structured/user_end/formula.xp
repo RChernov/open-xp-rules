@@ -1,4 +1,3 @@
-
 JSON = ''
 COND = (
     $eventid != null
